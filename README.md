@@ -6,6 +6,13 @@ To install the necessary dependencies, clone the repo, then run the following fr
 bundle install
 ```
 
+
+That error out? Perhaps you don't have Bundler installed.
+
+```
+gem install bundler
+```
+
 ## Demo Steps
 
 This repo has been tagged at a few points to more clearly show the code necessary for certain functionality. To view these individual steps, you can check out the tags individually:
