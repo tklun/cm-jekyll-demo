@@ -8,3 +8,8 @@ gauges_id: 503c5af6613f5d0f19000027
 sass:
     syntax: scss        # scss|sass
     style:  compressed  # nested|expanded|compact|compressed
+
+# Jekyll Models
+jekyll_models: [projects, tests]
+jekyll_models_urls: rest-like
+site_base: http://localhost:4000/
