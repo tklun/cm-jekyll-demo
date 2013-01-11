@@ -33,3 +33,11 @@ If you've checked out the repo in a tagged state, you can reset the repo to its 
 ```
 git checkout master
 ```
+
+## Running Jekyll
+
+When you're ready to give Jekyll a shot, go into the `site` directory and run:
+
+```
+jekyll --server --auto
+```
